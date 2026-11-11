@@ -5,7 +5,7 @@
     "name": "STITCH LIVE",
     "isNew": true,
     "type": "live",
-    "url": "https://wallpics-media-private.19218a2dc0ee5988dfb32f5dfeb754f8.r2.cloudflarestorage.com/live/2025/11/29/01KG5CX0V65VAVXRFDTEM41ADC.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=64a67f51cc8c998b99f3c542219a1824%2F20261104%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261104T215115Z&X-Amz-SignedHeaders=host&X-Amz-Expires=180000&X-Amz-Signature=8f97aa1a409632214e5324e24582bf03214ba9884a90cdf68a80e3b43bf66352",
+    "url": "https://media.wallpics.app/thumbnails/2026/09/23/k3mwgxoIYH8IN7P3KRUNC2aCdVmKs11D2nNQqRLQ_Ay3x.webp",
     "thumbnail": "https://media.wallpics.app/thumbnails/2025/10/25/4lvlm8pzouB7kUErdxW4WgK0pMLVnUJwM1cj9bcw_iJUi.webp"
   },
   {
@@ -13,39 +13,39 @@
     "name": "STITCH LIVE",
     "isNew": true,
     "type": "live",
-    "url": "https://wallpics-media-private.19218a2dc0ee5988dfb32f5dfeb754f8.r2.cloudflarestorage.com/live/2026/05/01/01KQH90ESHYA8G4M9PRPJTNEWJ.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=64a67f51cc8c998b99f3c542219a1824%2F20261104%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261104T220927Z&X-Amz-SignedHeaders=host&X-Amz-Expires=180000&X-Amz-Signature=5674b1462ce3a99b67a517506f716be96e0befa6ef4ee6a98e46a98e5b66d458",
+    "url": "https://media-private.wallpics.app/live/2025/12/16/01KCKT891PDFANS10XDCGA17JD.mp4?verify=1794427946-YsLSueo0C178d7VbL00YLMuC1R3QRd307ziVdcG5FAk%3D",
     "thumbnail": "https://media.wallpics.app/thumbnails/2025/12/16/01KCKT891PDFANS10XDCGA17JD_tRU1.webp"
   },
    {
     "id": "402",
-    "name": "CHIIKAWA LIVE",
+    "name": "STITCH LIVE",
     "isNew": true,
     "type": "live",
-    "url": "https://r2.chiikawawallpaper.com/live/20260430/343f3883b84828e64202685e139ee550.mp4",
+    "url": "https://media-private.wallpics.app/live/2026/03/17/01KKXVWA169ZSEQ6M79VK1N30G.mp4?verify=1794427877-GYrr1ZUhSUBSg3Ay85iXqcAxf2vUROct23eNQzDuy9s%3D",
     "thumbnail": "https://media.wallpics.app/thumbnails/2026/03/17/EkRkrk68rasHXkJahZcRNIybYMScc37gxcs9lV9y_vBOQ.webp"
   },
   {
     "id": "403",
-    "name": "CHIIKAWA LIVE",
+    "name": "STITCH LIVE",
     "isNew": true,
     "type": "live",
-    "url": "https://r2.chiikawawallpaper.com/live/20260822/96305d8975d714c670e38e1443bb9c56.mp4",
+    "url": "https://media-private.wallpics.app/live/2026/01/25/01KFTPDCKZ1ZAVJP7TC39T3562.mp4?verify=1794428283-KSkY2kZmn6fN%2BpwtLx9mDhqbrRTXGr9baBH7hl1mjPI%3D",
     "thumbnail": "https://media.wallpics.app/thumbnails/2026/01/25/79409AB8hTZV6xWYnxu1EfQLiaCbAfHtf6fGqHKM_KoxR.webp"
   },
     {
     "id": "404",
-    "name": "CHIIKAWA LIVE",
+    "name": "STITCH LIVE",
     "isNew": true,
     "type": "live",
     "url": "https://media-private.wallpics.app/live/2026/06/17/01KVATC39ZEER2JRMR23XA78WX.mp4?verify=1794423654-plZ0gBpXHca2oKsa8FfvJIyOZ%2FJLeHtFnJ1f4fBi5VE%3D",
-    "thumbnail": "https://media-private.wallpics.app/live/2026/06/17/01KVATC39ZEER2JRMR23XA78WX.mp4?verify=1794423654-plZ0gBpXHca2oKsa8FfvJIyOZ%2FJLeHtFnJ1f4fBi5VE%3D"
+    "thumbnail": "https://media.wallpics.app/thumbnails/2026/06/17/01KVASX3HBFGNWQTHB65DZTVJ1_Gp63.webp"
   },
     {
     "id": "405",
-    "name": "CHIIKAWA LIVE",
+    "name": "STITCH LIVE",
     "isNew": true,
     "type": "live",
-    "url": "https://r2.chiikawawallpaper.com/live/20260812/96588dbfa72227e81b2dce293f52aef1.mp4",
+    "url": "https://media-private.wallpics.app/live/2025/11/12/01KEG8KFJT4M5SY6R5PT0B448C.mp4?verify=1794427519-1G3Rf%2FrKaVJYhsVEU9pWLaXJnQFXpmWwqQtRgmLDIA0%3D",
     "thumbnail": "https://r2.chiikawawallpaper.com/live/20260812/6b0e6c318a43c584c7514e0a2bdfcebd.jpg"
   },
     {
@@ -737,7 +737,7 @@
     "id": "14",
     "name": "STITCH",
     "isNew": false,
-    "url": "https://media.wallpics.app/wallpapers/2026/04/17/t1jLETp8MWYMNeQLydCOVpjMEfZ1Omqmc8QuCzfB.jpgg"
+    "url": "https://media.wallpics.app/wallpapers/2026/04/17/t1jLETp8MWYMNeQLydCOVpjMEfZ1Omqmc8QuCzfB.jpg"
   },
    {
     "id": "15",
@@ -819,21 +819,21 @@
   },
   {
     "id": "28",
-    "name": "Chiikawa, Hachiware, Usagi, Momonga",
+    "name": "STITCH",
     "isNew": false,
-    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/4k/20250903210409_ac1e7f68b135e170dc511a21aa3a2b25-600.jpg"
+    "url": "https://media.wallpics.app/thumbnails/2025/09/30/860175ab-34e2-4835-ad80-02ff58a3fd3a_thumbnail_GCgN.jpg"
   },
   {
     "id": "29",
-    "name": "Chiikawa, Hachiware, Usagi, Momonga",
+    "name": "STITCH",
     "isNew": true,
-    "url": "https://r2.chiikawawallpaper.com/wallpaper/mobile/20260514/1bd5383cf07ca29dc7ea835500cafc82_thumb_w800.webp"
+    "url": "https://media.wallpics.app/thumbnails/2024/12/03/UwyXPILwYEuaxSrnl39PNtkucecLjJ8kUCqh8xMB_thumbnail_Rkk8.jpg"
   },
   {
     "id": "30",
-    "name": "Chiikawa, Hachiware, Usagi, Momonga",
+    "name": "STITCH",
     "isNew": true,
-    "url": "https://r2.chiikawawallpaper.com/wallpaper/wallpaper/4k/20250828120614_7eb6d4b9cec00d6075e366ba8b4c4f08-600.jpg"
+    "url": "https://media.wallpics.app/thumbnails/2025/05/26/fen3ymVwUQbIIRDFn8TO386wRIhJqQqrONVLrSjw_thumbnail_XfZo.jpg"
   },
   {
     "id": "31",
